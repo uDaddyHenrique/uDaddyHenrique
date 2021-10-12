@@ -11,11 +11,12 @@
 
 ```java
    
-   public Personal(String name, String city, String language, int dd)
+   public Personal(String name, String city, String language, int dd) {
    
    this.name = "Henrique";
    this.city = "Taquarituba SP";
    this.language = "Java";
    this.dd = 14;
 
+ }
 ```
