@@ -3,8 +3,6 @@
 ### :clipboard: Languages and Tools:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-FFFAFA?style=for-the-badge&logo=kotlin&logoColor=orange)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
@@ -16,7 +14,7 @@
    this.name = "Henrique";
    this.city = "Taquarituba SP";
    this.language = "Java";
-   this.year = 13;
+   this.year = 15;
 
  }
 ```
