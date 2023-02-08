@@ -7,18 +7,6 @@
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
 
-```java
-   
-   public Personal(String name, String city, String language, int year) {
-   
-   this.name = "Henrique";
-   this.city = "Taquarituba SP";
-   this.language = "Java";
-   this.year = 15;
-
- }
-```
-
 
 ## **GitHub Estatísticas**
 
